@@ -1,0 +1,19 @@
+# Exercício 3.2
+a = 4
+b = 10
+c = 5.0
+d = 1
+e = 5
+f = 5
+
+a == c
+a < b
+d < b
+c != f
+a == b
+c < d
+b > a
+c >= f
+f >= c
+c <= c
+c <= f
